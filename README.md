@@ -5,10 +5,10 @@
 <img src="hi clu..omg.gif" width="480px">
 <br>
 <h5>
-ask name　　　nhuman terms only　　　tron c.link
+nhuman terms only!!　　tron c.link
   
 <br>male　　18yrs　 　british　　npd sys
 
-<br>outdated　ass　<a href="https://ponyexpress.atabook.org/" target="_blank">新book​</a>
+<br>hii sign <a href="https://ponyexpress.atabook.org/" target="_blank">新book​</a> c(-:
 </h5>
 
