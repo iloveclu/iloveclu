@@ -5,10 +5,6 @@
 <img src="hi clu..omg.gif" width="480px">
 <br>
 <h5>
-nhuman terms only pls ok thanlks
-  
-<br> male　 18yrs　 npd sys
-
-<br>hii⠀sign⠀<a href="https://clu.atabook.org/" target="_blank">新book​</a>⠀ok?
+wip bye
 </h5>
 
