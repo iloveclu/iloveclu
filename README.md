@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=gentlehandsplease&style=plastic&label=_+++Σヽ(ﾟДﾟ;_)ﾉ_ｱｯ+++_&color=222020)
+![](https://komarev.com/ghpvc/?username=gentlehandsplease&style=for-the-badge&label=_+++Σヽ(ﾟДﾟ;_)ﾉ_ｱｯ+++_&color=222020)
 
 ${\text{\color{#4C4C4D} ꒰  '' ᴗ ᴗ  ꒱ᩙ⠀⠀⠀⠀\color{#4C4C4D} clu ꪱs my \color{#7A7838} s⍶vꪱour יִ}}$ <br>
 
@@ -10,5 +10,6 @@ ${\text{\color{#4C4C4D} ꒰  '' ᴗ ᴗ  ꒱ᩙ⠀⠀⠀⠀\color{#4C4C4D} clu �
 ${\text{\color{#7A7838}𑇣  ‿ troη⠀⠀\color{#4C4C4D}ou⠀\color{#A6A6A8}tᧉsco \color{#4C4C4D}⠀⠀ ©⠀clu2 }}$ <br>
 ${\text{\color{#A6A6A8} ꪱt⠀\color{#4C4C4D}⠀hᧉ clu \color{#4C4C4D}⠀⠀⠀︵no \color{#4C4C4D} they⠀\color{#414349} ✚ 𓈒⠀ᴗ)}}$
 
-
-${\text{\color{#252526} feel 3 to t⍶ke \color{#414349} ꪱηspo ۟\color{#252526} from ۟profꪱle \color{#414349} uηless \color{#252526} we 𝗿 frꪱends \color{#7A7838} ☺︎}}$ <br>
+<a href="https://clu.atabook.org/">
+  <img src="https://img.shields.io/badge/atabook-4A2B31?style=for-the-badge&logoColor=ffffff&labelColor=4C4C4D">
+</a>
